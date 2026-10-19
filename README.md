@@ -1,11 +1,5 @@
 # Coleção: 10 projetos em HTML, CSS e JavaScript
 
-## Como abrir
-1. Extraia o arquivo ZIP.
-2. Abra `index.html` para ver o menu com os 10 projetos.
-3. Clique no projeto desejado.
-4. Para editar o código, abra a pasta no VS Code ou em outro editor.
-
 ## Projetos
 1. Supermercado — produtos, categorias, preço, estoque e validade.
 2. Marcação de consultas — pacientes, profissionais, data, hora e situação.
